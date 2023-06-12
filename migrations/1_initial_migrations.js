@@ -1,5 +1,5 @@
-const Migrationss = artifacts.require("Migrationss");
+const funders = artifacts.require("funders");
 
 module.exports = function(deployer) {
-  deployer.deploy(Migrationss);
+  deployer.deploy(funders);
 };

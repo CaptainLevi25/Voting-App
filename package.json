@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.11",
     "create-react-app": "^5.0.1",
+    "react-scroll-parallax": "^3.4.2",
     "web3": "^1.10.0"
   }
 }
